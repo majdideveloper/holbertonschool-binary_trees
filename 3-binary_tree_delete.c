@@ -6,7 +6,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_delete - function delete all tree of node
- * @parent: Pointer to the root of tree
+ * @tree: Pointer to the root of tree
  * Return: Nothing ...
  *
  */
