@@ -1,6 +1,6 @@
 #include"binary_trees.h"
 /**
- * binary_tree_sibling - function return if sibling 
+ * binary_tree_sibling - function return if sibling
  * @node: Pointer to the node  to cheak is sibling or not
  * Return: Int 1 if sibling
  * else 0
